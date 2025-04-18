@@ -1,5 +1,5 @@
 ---
-title: "Brain Tumor Classification Using Probabilistic Neural Networks"
+title: "Brain Tumor Classification Using Convolutional Neural Networks"
 output: github_document
 ---
 
