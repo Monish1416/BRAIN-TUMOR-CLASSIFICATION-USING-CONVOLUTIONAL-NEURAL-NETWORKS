@@ -69,9 +69,7 @@ Make sure the following libraries are installed:
 ```bash
 pip install opencv-python matplotlib numpy
 
-
-## 📁 Project Structure
-
+📂 Project Structure
 Monish.ipynb: Main Jupyter notebook with the step-by-step implementation.
 
 brain.png: The brain scan image used (ensure it's in the same directory as the notebook).
