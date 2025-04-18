@@ -3,7 +3,7 @@ title: "Brain Tumor Classification Using Convolutional Neural Networks"
 output: github_document
 ---
 
-# Brain Tumor Classification Using Probabilistic Neural Networks
+# Brain Tumor Classification Using Convolutional Neural Networks
 
 ## 🧠 Overview
 
